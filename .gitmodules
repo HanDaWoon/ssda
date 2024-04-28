@@ -1,0 +1,12 @@
+[submodule "ssda-frontend"]
+	path = ssda-frontend
+	url = https://github.com/HanDaWoon/ssda-frontend
+	branch = main
+[submodule "ssda-backend"]
+	path = ssda-backend
+	url = https://github.com/HanDaWoon/ssda-backend
+	branch = main
+[submodule "ssda-ml"]
+	path = ssda-ml
+	url = https://github.com/HanDaWoon/ssda-ml
+	branch = main
